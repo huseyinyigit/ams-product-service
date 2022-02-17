@@ -1,3 +1,6 @@
+# enviroments
+.*env*
+
 # compiled outputUIHelper.scrollInto("#checkout-container", this.elementRef);
 /dist
 /node_modules
